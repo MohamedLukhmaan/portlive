@@ -50968,7 +50968,7 @@ T(a){var s=A.yY(A.qj(A.cX(a,B.bO,t.w).w.a.a))
 return new A.d_(new A.bB(s,10,s,10),B.u5,null)}}
 A.v4.prototype={
 T(a){var s=null,r=A.qj(A.cX(a,B.bO,t.w).w.a.a),q=A.a2D(A.iv(A.d([B.Ea,A.iv(s,s,s,s,s,s,s,s,s,s,B.b.ar(B.xN," \xb7 "))],t.nO),s,s,s,s,s,s,s,s,s,s),B.cN),p=r===B.L?48:40
-return A.hB(A.d([B.C3,B.h9,B.Ei,B.h9,q,B.DG,new A.hx("download resume","Download resume (PDF, opens in a new tab)",new A.G1(),p,!1,s)],t.D),B.V,B.aE)}}
+return A.hB(A.d([B.C3,B.h9,B.Ei,B.h9,q,B.DG,new A.hx("Download resume","Download resume (PDF, opens in a new tab)",new A.G1(),p,!1,s)],t.D),B.V,B.aE)}}
 A.G1.prototype={
 $0(){return A.Lm(A.aaG().b5("resume.pdf"),!0)},
 $S:0}
@@ -51154,7 +51154,7 @@ $0(){return this.a.d=!1},
 $S:0}
 A.pW.prototype={
 T(a){var s=null,r=A.cX(a,B.ho,t.w).w,q=A.a9c(B.d.f9(this.c-24,0,4096),r.b)
-return A.ex(s,new A.w0(new A.c9(q,q,new A.p1(A.aa0(s,s,new A.nI("assets/images/profile_pixel.png",s,s)),new A.MT(),q,q,B.df,B.uk,!0,!0,!1,s),s),s),!1,!1,!1,s,s,s,s,!0,"Pixel-art portrait of Mohamed Lukhmaan",s,s,s,s,s,s,s,s,s)}}
+return A.ex(s,new A.w0(new A.c9(q,q,new A.p1(A.aa0(s,s,new A.nI("assets/images/profile_2_sharp.png",s,s)),new A.MT(),q,q,B.df,B.uk,!0,!0,!1,s),s),s),!1,!1,!1,s,s,s,s,!0,"Pixel-art portrait of Mohamed Lukhmaan",s,s,s,s,s,s,s,s,s)}}
 A.MT.prototype={
 $3(a,b,c){return B.vA},
 $S:343}
