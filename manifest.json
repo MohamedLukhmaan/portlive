@@ -1,23 +1,25 @@
 {
-    "name": "portfolio",
-    "short_name": "portfolio",
+    "name": "Mohamed Lukhmaan | Flutter Developer",
+    "short_name": "Lukhmaan",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Mohamed Lukhmaan Portfolio",
+    "background_color": "#050B0C",
+    "theme_color": "#050B0C",
+    "description": "Portfolio of Mohamed Lukhmaan, Flutter Developer.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any"
         },
         {
             "src": "icons/Icon-512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any"
         },
         {
             "src": "icons/Icon-maskable-192.png",
